@@ -1,0 +1,457 @@
+v_make_name,v_make_id
+Honda,1
+KYMCO,2
+Aprilia,5
+Ather,6
+Avan Motors,7
+Avera,8
+Avon,9
+Bajaj,10
+Bajaj Urbanite,11
+BattRE Electric Mobility,12
+Benelli,13
+Big Dog Motorcycles,14
+BMW,15
+CF Moto,16
+Cleveland CycleWerks,17
+Ducati,18
+Eider(Defunct),19
+Emflux,20
+FAB Regal Raptor,21
+FB Mondial,22
+Harley-Davidson,23
+Hero Electric,24
+Hero Moto Corp,25
+Husqvarna,26
+Hyosung,27
+Indian Motorcycle,28
+Indus,29
+JAWA,30
+Kawasaki,31
+Komaki,32
+KTM,33
+Lambretta,34
+Lectro Electric,35
+Li-ions Elektrik Solutions,36
+Lohia,37
+Mahindra,38
+Moto Guzzi,39
+MV Agusta,40
+Norton Motorcycles,41
+Okinawa,42
+Palatino,43
+Polarity Smart,44
+Revolt Motors,45
+Royal Enfield,46
+Suzuki,47
+SWM,48
+Techo Electra,49
+Terra,50
+Tork Motors,51
+Triumph,52
+TVS,53
+Ujaas Energy,54
+UM Motorcycles,55
+Vespa,56
+Victory,57
+Yamaha,58
+LML,59
+Aston Martin,60
+Audi,61
+Bentley,62
+Bugatti,63
+Chevrolet,64
+Datsun,65
+DC,66
+Ferrari,67
+Fiat,68
+Force Motors,69
+Ford,70
+Hyundai,71
+ICML,72
+Isuzu,73
+Jaguar,74
+Jeep,75
+KIA,76
+Lamborghini,77
+Land Rover,78
+Lexus,79
+Maserati,81
+Mercedes Benz,82
+MG Motor,83
+Mini,84
+Mitsubishi,85
+Nissan,86
+Porsche,87
+Premier,88
+Renault,89
+Reva,90
+Rolls Royce,91
+Skoda,92
+Tata,93
+Toyota,94
+Volkswagen,95
+Volvo,96
+Abarth,97
+Ashok Leyland,98
+Conquest,99
+Daewoo,100
+Hindustan Motors,101
+Maybach,102
+Opel,103
+San,104
+SsangYong,105
+Austin,106
+MG,107
+Citroen,108
+Tesla,109
+Maruti,110
+Mercedes-Benz,111
+Rolls-Royce,112
+Force,113
+Koenigsegg,114
+Mahindra SsangYong,115
+Caterham,116
+Dodge,117
+Peugeot,118
+Hummer,119
+Cadillac,120
+Mazda,121
+Subaru,122
+Infiniti,123
+San Motors,124
+Chrysler,125
+Smart,126
+Mahindra Renault,127
+Morris,128
+Studebaker,129
+Sipani,130
+BPG,131
+BSA Motors,132
+Demak,133
+Enigma,134
+Global Motors,135
+Harison,136
+Hero,137
+Kabirdass,138
+Lectrix,139
+Monto,140
+Ultra Motor,141
+XS Bikes,142
+EKO,143
+Hero Honda,144
+Kinetic,145
+Vibgyor,146
+Moto Morini,147
+Vardenchi,148
+Polaris,149
+Keeway,150
+Regal Raptor,151
+Rajdoot,152
+Ideal Jawa,153
+Yezdi,154
+Piaggio,155
+22Motors,156
+KSL Cleantech,159
+Raftaar,160
+Yezdi Motorcycles,161
+YUKIE,162
+SUPER ECO,163
+Benling India,164
+Evolet,165
+EeVe,166
+PURE EV,167
+Gemopai,168
+Toutche Electric,169
+Evoke Motorcycles,170
+Pininfarina,176
+Menza Motors,177
+Giant,178
+Atlas,179
+Kross,180
+Frog,181
+Btwin,182
+Firefox,184
+Hercules,185
+BSA,187
+Mach City,188
+Montra,189
+Trek,191
+Schnell,192
+Keysto,193
+Merida,194
+Cannondale,195
+Omo,196
+Bianchi,197
+Waltx,198
+Schwinn,199
+Ridley,200
+GT,201
+Leader,202
+Light Speed,203
+Focus,204
+Fuji,205
+Brooks,206
+Mercedes,207
+Tarang,208
+Tata Stryder,209
+Bike Ark,210
+Lapierre,211
+La Sovereign,212
+Raleigh,213
+Tunwal,214
+BGauss,215
+Joy E-bike,216
+YOBykes,217
+Li-ions,218
+Ampere,219
+Haima Bird,220
+ORA,221
+Sonalika,223
+John Deere,224
+Kubota,225
+Swaraj,226
+New Holland,227
+Massey  Ferguson,228
+Farmtrac,229
+Powertrac,230
+Solis,231
+Preet,232
+Indo Farm,233
+ACE,234
+Captain,235
+Digitrac,236
+Standard,237
+VST,238
+Trakstar,239
+Eicher,240
+Deutz Fahr,241
+Escorts,242
+Geliose,243
+Detel EV,244
+Strom Motors,245
+Bharat Benz,248
+Hino,251
+Kamaz,252
+MAN,253
+Scania,256
+Swaraj Mazda,257
+White Carbon Motors,261
+Roadeo,262
+JBM,269
+Prevail Electric,274
+Gravton,275
+Hop Electric,276
+AMO Electric,277
+Ola Electric,278
+Warivo Motors,279
+Simple Energy,280
+Evtric Motors,281
+Rugged,285
+iVOOMi,286
+Viertric,287
+Poise,288
+Okaya Electric,290
+Omega Seiki Mobility,291
+Deltic,292
+Tatra,293
+Test,294
+Haval,295
+Devot,296
+Everve Motors,297
+Emote Electric,298
+Aftek,299
+Bird,300
+Orxa,301
+BYD Auto,302
+Omega Seiki,303
+Boom Motors,305
+Greta Electric,306
+Svitch,307
+DAO Electric,308
+Bounce,310
+ATUL,316
+One Moto,320
+One Electric,321
+Stella Automobili,322
+BattRE Electric,323
+M2GO,324
+Ujaas,325
+Earth Energy EV,326
+Odysse Electric,327
+Gowel,328
+Kabira Scooters,329
+HCD India,330
+Crayon,335
+Velev Motors,336
+Merico,337
+SES Electric,338
+Ultraviolette,339
+RBSEVA,340
+Cyborg,341
+Oben,342
+Gleev Motors,343
+GRP EV,344
+Ninety One,345
+Avanti,346
+Same Deutz Fahr,347
+Escort,348
+Hindustan,349
+Zelio,350
+Smartron,351
+Nahak  Motors,352
+Segway,354
+Fidato Evtech,360
+Super Soco,361
+SYM,362
+Srivaru Motors,363
+eMotorad,364
+EKA,365
+Wroley E-Scooter,366
+Nexzu,367
+Trouve Motor,368
+Olectra,369
+Dispatch EV,370
+Trinity,371
+Acrolt,372
+Urban Terrain,373
+Nuze,374
+Java,375
+Fittrip,376
+Pedaleze,377
+Polygon,378
+Toronto,379
+Triad,380
+Wilier,381
+Bottecchia,382
+BMC,383
+Vaux,384
+Veloce,385
+United,386
+PMV,388
+Euler Motors,389
+Switch India,391
+JSA,393
+Altigreen,394
+Baba Electric,395
+Bahubali E Rickshaw,396
+City Life Electric,397
+Dabang,398
+E-Ashwa,400
+Gayam Motors,401
+Gem EV,402
+Gkon Automotive,403
+Atumobile,404
+GreenRick,406
+Jezza Motors,407
+Keto Motors,408
+Mini Metro,409
+Saarthi,410
+Skyride,411
+SN Solar Energy,412
+Teja (Powered by Greaves),413
+Terra Motors,414
+Thukral Electric,415
+Udaan,416
+YC Electrice,417
+Zontes,418
+Mclaren,419
+EVeium,421
+SML Isuzu,422
+Silence,423
+testing,426
+ravi testing1,427
+ravi r test2,428
+Quantum Energy,430
+GT Force,431
+asdasdad,432
+testing567,433
+asdasdasd,434
+testing00,435
+testingp000,436
+asdasdasdasd,437
+testinggg,438
+sfdasasdasd,440
+testinghhjjk,441
+testinghhhkk,442
+Motovolt,443
+Zero Motorcycles,444
+Pravaig,445
+Kyte Energy,446
+QJ Motor,447
+Matter EV,448
+Hero Vida,450
+Eko Tejas,451
+testing1,452
+GT Force1,453
+Revamp Moto,454
+abhay,455
+cromptin,457
+vansun,458
+unicorn,459
+ankur,460
+MBP Moto,462
+River EV,463
+Benda,464
+Jupiter,465
+Liger,466
+Sony Honda,468
+Aeroride,469
+Joy,471
+Greaves Mobility,472
+Sun Mobility,473
+Hexall,474
+Switch,476
+Baxy,477
+Star,478
+Magron Novus,479
+iGowise,480
+testinggggdfsdfdf,481
+dfv,482
+Yulu,483
+Power EV,484
+mahesh,488
+runner,489
+avtar,490
+ravitesting001,492
+Gogoro,494
+Kick EV,495
+Eblu,496
+BNC,497
+Energy Automobile,498
+Indibike,499
+Sokudo,500
+ADMS,501
+Herald E Bike,502
+Matter AERA,503
+Fujiyama,505
+Fisker,506
+Test Brand,508
+testme,509
+vansuntesting,510
+Testing 12,511
+Maruthisan,512
+Smartehop,513
+Sushil testing,522
+Testing one,525
+Late payment Fees,526
+test dimple,547
+test dimple one,551
+dddddddd,555
+CNG Make,560
+CNG Makes,562
+suraj make suraj,565
+suraj make sun,566
+TPurpose,567
+Steed,574
+Dynamo,577
+Vegh,608
+test scooter,630
+testing scooter,631
+tst,643
+dimple test,645
+usha,650
+testravi,651
+e-Sprinto,652
+testing12,653
+csss,655
