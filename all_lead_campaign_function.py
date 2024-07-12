@@ -15,9 +15,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import ElementNotInteractableException
 
-binary_path = r"C:\Users\kishan.kumar_tyreple\Desktop\chromedriver.exe"
+binary_path = r"./chromedriver.exe"
 fb_website = "https://business.facebook.com/latest/instant_forms/forms?asset_id=334167367265607&business_id=1055428358578694&nav_id=2416062922&nav_ref=bizweb_landing_fb_login_button&biz_login_source=bizweb_landing_fb_login_button"
-download_folder = r"Downloads"
+download_folder = r"./Downloads"
 
 vehicle_make_4w = pd.read_csv("vehicle_make_4w.csv")
 vehicle_model_4w = pd.read_csv("vehicle_model_4w.csv")
